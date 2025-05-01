@@ -1,8 +1,8 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> Gøjo Sataru㊙️</h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="Gojo docs" height="350" src="https://telegra.ph/file/4b6e0ff1856546a67e1fe.jpg">
   </a>
 </p>
     
